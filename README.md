@@ -1,0 +1,1 @@
+**Archived.** `trauma-film-paradigm` is an earlier experiment that I am no longer developing or operating. The repository remains available as historical reference; setup instructions and dependencies may be outdated.
